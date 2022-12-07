@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Web3
 - 💞️ I’m looking to collaborate on projects to shape the future to Web3
 - 📫 How to reach me:
+  - Mail: swadhinpaul159@gmail.com
   - Twitter: @swadhinpauldev
-  - Telegram: @swadhinpaul
 
 <!---
 swadhinbubaipaul/swadhinbubaipaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
