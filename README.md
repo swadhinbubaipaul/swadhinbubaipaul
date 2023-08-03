@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swadhinbubaipaul
-- 👀 I’m interested in Web3 Development(Solidity, Hardhat, ReactJs, NextJs) and all hot topics about Web3/Defi
+- 👀 I’m interested in Fullstack Development
 - 🌱 Currently I’m working as a Blockchain Developer
-- 💞️ I’m looking to collaborate on projects to shape the future to Web3
+- 💞️ I’m looking to collaborate on projects to shape the future
 - 📫 How to reach me:
   - Mail: swadhinpaul159@gmail.com
   - Twitter: @swadhinpauldev
