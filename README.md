@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swadhinbubaipaul
 - 👀 I’m interested in Fullstack Development
-- 🌱 Currently I’m working as a Blockchain Developer
+- 🌱 Currently I’m working as a Fullstack Developer
 - 💞️ I’m looking to collaborate on projects to shape the future
 - 📫 How to reach me:
   - Mail: swadhinpaul159@gmail.com
